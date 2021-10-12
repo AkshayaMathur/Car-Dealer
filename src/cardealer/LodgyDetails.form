@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="99" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="57" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                              <Component id="jScrollPane1" min="-2" pref="781" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                          <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="193" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                  <Component id="jScrollPane1" min="-2" pref="427" max="-2" attributes="0"/>
+                  <EmptySpace pref="48" max="32767" attributes="0"/>
+                  <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Monospaced" size="14" style="0"/>
+                </Property>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="ENGINE &amp; TRANSMISSION&#xa;-----------------------------------------------------------------------------------------------&#xa;-----------------------------------------------------------------------------------------------&#xa;&#xa;Top Speed&#x9;&#x9;&#x9;170 Kmph&#xa;Acceleration (0-100 kmph)&#x9;13 Seconds&#xa;Engine Displacement(cc)&#x9;&#x9;1461&#xa;Maximum Power&#x9;&#x9;&#x9;108.5bhp@4000rpm&#xa;Maximum Torque&#x9;&#x9;&#x9;245Nm@1750rpm&#xa;Engine Description&#x9;&#x9;1.5-litre 108.5bhp 16V dCI Engine&#xa;Turning Radius&#x9;&#x9;&#x9;5.55 metres&#xa;No. of Cylinders&#x9;&#x9;4&#xa;Drive Type&#x9;&#x9;&#x9;FWD&#xa;Turbo Charger&#x9;&#x9;&#x9;Yes&#xa;Super Charger&#x9;&#x9;&#x9;No&#xa;Valves Per Cylinder&#x9;&#x9;4&#xa;Compression Ratio&#x9;&#x9;-&#xa;Fuel Supply System&#x9;&#x9;CRDi&#xa;Gear box&#x9;&#x9;&#x9;6 Speed&#xa;Steering Gear Type&#x9;&#x9;Rack &amp; Pinion&#xa;_______________________________________________________________________________________________&#xa;&#xa;CAPACITY&#xa;----------------------------------------------------------------------------------------------&#xa;----------------------------------------------------------------------------------------------&#xa;&#xa;Seating Capacity&#x9;&#x9;7&#xa;No of Doors&#x9;&#x9;&#x9;5&#xa;Length&#x9;&#x9;&#x9;&#x9;4498mm&#xa;Width&#x9;&#x9;&#x9;&#x9;1751mm&#xa;Height&#x9;&#x9;&#x9;&#x9;1697mm&#xa;Ground Clearance&#x9;&#x9;174mm&#xa;Wheel Base&#x9;&#x9;&#x9;2810mm&#xa;Front Tread&#x9;&#x9;&#x9;1490mm&#xa;Rear Tread&#x9;&#x9;&#x9;1478mm&#xa;Kerb Weight&#x9;&#x9;&#x9;1360kg&#xa;Gross Weight&#x9;&#x9;&#x9;-&#xa;Front Headroom&#x9;&#x9;&#x9;-&#xa;Front Legroom&#x9;&#x9;&#x9;-&#xa;Rear Headroom&#x9;&#x9;&#x9;-&#xa;Rear Legroom&#x9;&#x9;&#x9;-&#xa;Fuel Tank Capacity (Liters)&#x9;50&#xa;Cargo Volume&#x9;&#x9;&#x9;207-litres&#xa;Tyre Size&#x9;&#x9;&#x9;185/65 R15&#xa;Tyre Type&#x9;&#x9;&#x9;Tubeless&#xa;Wheel Size&#x9;&#x9;&#x9;-&#xa;Alloy Wheel Size&#x9;&#x9;15 Inch&#xa;No of Floors&#xa;______________________________________________________________________________________________&#xa;&#xa;COMFORT&#xa;----------------------------------------------------------------------------------------------&#xa;----------------------------------------------------------------------------------------------&#xa;Air Conditioner&#x9;&#x9;&#x9;Yes&#xa;Power Steering&#x9;&#x9;&#x9;Yes&#xa;Rear A/C Vents&#x9;&#x9;&#x9;Yes&#xa;Engine Start/Stop Button&#x9;No&#xa;Remote Trunk Opener&#x9;&#x9;No&#xa;Remote Fuel Lid Opener&#x9;&#x9;No&#xa;Accessory Power Outlet&#x9;&#x9;Yes&#xa;Transmission Type&#x9;&#x9;Manual&#xa;Foldable Rear Seat&#x9;&#x9;60:40 Split&#xa;Navigation System&#x9;&#x9;Yes&#xa;Adjustable Seats&#x9;&#x9;Yes&#xa;Cassette Player&#x9;&#x9;&#x9;No&#xa;CD Player&#x9;&#x9;&#x9;No&#xa;CD Changer&#x9;&#x9;&#x9;No&#xa;DVD Player&#x9;&#x9;&#x9;No&#xa;FM/AM/Radio&#x9;&#x9;&#x9;Yes&#xa;Audio System Remote Control&#x9;No&#xa;Speakers Front&#x9;&#x9;&#x9;Yes&#xa;Speakers Rear&#x9;&#x9;&#x9;Yes&#xa;Integrated 2DIN Audio&#x9;&#x9;Yes&#x9;&#xa;Bluetooth Connectivity&#x9;&#x9;Yes&#xa;USB &amp; Auxiliary input&#x9;&#x9;Yes&#xa;Low Fuel Warning Light&#x9;&#x9;Yes&#xa;Automatic Climate Control&#x9;Yes&#xa;Air Quality Control&#x9;&#x9;No&#xa;Rear Reading Lamp&#x9;&#x9;Yes&#xa;Rear Seat Headrest&#x9;&#x9;Yes&#xa;Rear Seat Center Arm Rest&#x9;Yes&#xa;Heated Seats - Front&#x9;&#x9;Yes&#xa;Heated Seats - Rear&#x9;&#x9;Yes&#xa;Leather Seats&#x9;&#x9;&#x9;Yes&#xa;Fabric Upholstery&#x9;&#x9;Yes&#xa;Voice Control&#x9;&#x9;&#x9;No&#xa;Cup Holders-Front&#x9;&#x9;No&#xa;Cup Holders-Rear&#x9;&#x9;No&#xa;Shock Absorbers Type&#x9;&#x9;Anti Roll Bar&#xa;Trunk Light&#x9;&#x9;&#x9;No&#xa;Vanity Mirror&#x9;&#x9;&#x9;Yes&#xa;Glove Box Cooling&#x9;&#x9;No&#xa;Bottle Holder&#x9;&#x9;&#x9;Front &amp; Rear Door&#xa;Seat Lumbar Support&#x9;&#x9;Yes&#xa;Cruise Control&#x9;&#x9;&#x9;Yes&#xa;Multi-function Steering Wheel&#x9;Yes&#xa;Touch Screen&#x9;&#x9;&#x9;Yes&#xa;Front Suspension&#x9;&#x9;MacPherson Strut&#xa;Rear Suspension&#x9;&#x9;&#x9;Torsion Beam&#x9;&#x9;&#x9;-"/>
+                <Property name="enabled" type="boolean" value="false"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Arial" size="24" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Technical specs of Renault Lodgy Stepway 110PS RXZ 7S (Diesel)"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Arial" size="14" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Back"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

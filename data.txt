@@ -1,0 +1,3 @@
+Duster,Dinesh Reddy,Blue,1200000,
+Kwid,Rubesh Kumar,Silver,400000,
+Duster,Akshay Mathur,Black,1095000,
